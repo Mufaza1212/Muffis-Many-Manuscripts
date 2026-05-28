@@ -93,5 +93,7 @@
       "system": "dnd5e",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/Mufaza1212/Muffis-Many-Manuscripts/refs/heads/main/module.json",
+  "url": "https://github.com/Mufaza1212/Muffis-Many-Manuscripts"
 }
