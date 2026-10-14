@@ -1,7 +1,15 @@
-2026/09/11-10:09:01.982942 744d035ff6c0 Recovering log #36
-2026/09/11-10:09:01.985137 744d035ff6c0 Delete type=3 #34
-2026/09/11-10:09:01.985144 744d035ff6c0 Delete type=0 #36
-2026/09/11-22:15:53.474311 744cf40826c0 Level-0 table #41: started
-2026/09/11-22:15:53.477503 744cf40826c0 Level-0 table #41: 4777 bytes OK
-2026/09/11-22:15:53.482329 744cf40826c0 Delete type=0 #39
-2026/09/11-22:15:53.507471 744cf40826c0 Manual compaction at level-0 from '!items!0Sw1SHpE9k4zefW5' @ 72057594037927935 : 1 .. '!items!0Sw1SHpE9k4zefW5' @ 0 : 0; will stop at (end)
+2026/10/14-12:39:33.863861 7228be7fd6c0 Recovering log #44
+2026/10/14-12:39:33.866049 7228be7fd6c0 Delete type=3 #42
+2026/10/14-12:39:33.866056 7228be7fd6c0 Delete type=0 #44
+2026/10/15-01:06:35.885289 7228b4df66c0 Level-0 table #49: started
+2026/10/15-01:06:35.886179 7228b4df66c0 Level-0 table #49: 21469 bytes OK
+2026/10/15-01:06:35.887458 7228b4df66c0 Delete type=0 #47
+2026/10/15-01:06:35.890110 7228b4df66c0 Manual compaction at level-0 from '!items!0Sw1SHpE9k4zefW5' @ 72057594037927935 : 1 .. '!items!phbrgrRanger0000' @ 0 : 0; will stop at (end)
+2026/10/15-01:06:35.893554 7228b4df66c0 Manual compaction at level-1 from '!items!0Sw1SHpE9k4zefW5' @ 72057594037927935 : 1 .. '!items!phbrgrRanger0000' @ 0 : 0; will stop at '!items!phbrgrRanger0000' @ 5 : 1
+2026/10/15-01:06:35.893556 7228b4df66c0 Compacting 1@1 + 1@2 files
+2026/10/15-01:06:35.894451 7228b4df66c0 Generated table #50@1: 3 keys, 13577 bytes
+2026/10/15-01:06:35.894455 7228b4df66c0 Compacted 1@1 + 1@2 files => 13577 bytes
+2026/10/15-01:06:35.895761 7228b4df66c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/10/15-01:06:35.895793 7228b4df66c0 Delete type=2 #49
+2026/10/15-01:06:35.895815 7228b4df66c0 Delete type=2 #41
+2026/10/15-01:06:35.899270 7228b4df66c0 Manual compaction at level-1 from '!items!phbrgrRanger0000' @ 5 : 1 .. '!items!phbrgrRanger0000' @ 0 : 0; will stop at (end)
