@@ -1,8 +1,15 @@
-2026/09/11-22:34:37.895281 7412335fc6c0 Recovering log #42
-2026/09/11-22:34:37.905158 7412335fc6c0 Delete type=0 #42
-2026/09/11-22:34:37.905168 7412335fc6c0 Delete type=3 #40
-2026/09/11-23:00:43.455192 741224f876c0 Level-0 table #48: started
-2026/09/11-23:00:43.455202 741224f876c0 Level-0 table #48: 0 bytes OK
-2026/09/11-23:00:43.460437 741224f876c0 Delete type=0 #46
-2026/09/11-23:00:43.460472 741224f876c0 Manual compaction at level-0 from '!folders!JLUaIdX246RHwcQU' @ 72057594037927935 : 1 .. '!items.effects!wGIQK1Qt3kJL4it3.LIZbzQ5xmRu97aUR' @ 0 : 0; will stop at (end)
-2026/09/11-23:00:43.460486 741224f876c0 Manual compaction at level-1 from '!folders!JLUaIdX246RHwcQU' @ 72057594037927935 : 1 .. '!items.effects!wGIQK1Qt3kJL4it3.LIZbzQ5xmRu97aUR' @ 0 : 0; will stop at (end)
+2026/11/21-19:04:20.463680 71dff19fe6c0 Recovering log #63
+2026/11/21-19:04:20.465926 71dff19fe6c0 Delete type=3 #62
+2026/11/21-19:04:20.465939 71dff19fe6c0 Delete type=0 #63
+2026/11/21-23:45:40.913400 71dfe6ff56c0 Level-0 table #67: started
+2026/11/21-23:45:40.916672 71dfe6ff56c0 Level-0 table #67: 767182 bytes OK
+2026/11/21-23:45:40.918060 71dfe6ff56c0 Delete type=0 #65
+2026/11/21-23:45:40.918220 71dfe6ff56c0 Manual compaction at level-0 from '!folders!JLUaIdX246RHwcQU' @ 72057594037927935 : 1 .. '!items.effects!wGIQK1Qt3kJL4it3.LIZbzQ5xmRu97aUR' @ 0 : 0; will stop at (end)
+2026/11/21-23:45:40.920612 71dfe6ff56c0 Manual compaction at level-1 from '!folders!JLUaIdX246RHwcQU' @ 72057594037927935 : 1 .. '!items.effects!wGIQK1Qt3kJL4it3.LIZbzQ5xmRu97aUR' @ 0 : 0; will stop at '!items.effects!wGIQK1Qt3kJL4it3.LIZbzQ5xmRu97aUR' @ 1311 : 0
+2026/11/21-23:45:40.920613 71dfe6ff56c0 Compacting 1@1 + 1@2 files
+2026/11/21-23:45:40.923366 71dfe6ff56c0 Generated table #68@1: 227 keys, 372902 bytes
+2026/11/21-23:45:40.923370 71dfe6ff56c0 Compacted 1@1 + 1@2 files => 372902 bytes
+2026/11/21-23:45:40.924625 71dfe6ff56c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/11/21-23:45:40.924646 71dfe6ff56c0 Delete type=2 #53
+2026/11/21-23:45:40.924673 71dfe6ff56c0 Delete type=2 #67
+2026/11/21-23:45:40.927579 71dfe6ff56c0 Manual compaction at level-1 from '!items.effects!wGIQK1Qt3kJL4it3.LIZbzQ5xmRu97aUR' @ 1311 : 0 .. '!items.effects!wGIQK1Qt3kJL4it3.LIZbzQ5xmRu97aUR' @ 0 : 0; will stop at (end)
